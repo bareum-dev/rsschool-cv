@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bage: #A39894;
+  --black: #171717;
+  --blue: #1EA1C8;
+  --dark-blue: #416BC8;
+  --purple: #6647E1;
+  --white: #ffffff;
+  --gray: #6A6C6D;
+}
+
+.background {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(to right bottom, var(--gray), var(--black));
+  /*background-color: var(--black);
+}
