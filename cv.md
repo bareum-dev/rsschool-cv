@@ -13,3 +13,20 @@
 #### PROFILE
 I'm beginner Front-End developer.  
 I love to create beautiful things with my hands and I use JavaScript for this.
+
+#### SKILLS
+* HTML
+* CSS
+* JavaScript
+* PUG
+* SASS/SCSS
+* BEM
+* Git, GitHub
+
+#### EDUCATION
+Moscow Institute of Enterpreneurship and Law (MIPP) - B.A. Economics  
+2007-2012
+
+#### LANGUAGES
+* Russian - Native
+* English - A2
