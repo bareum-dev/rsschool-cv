@@ -1,0 +1,55 @@
+* {
+  transition: all 0.3s ease;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+header,
+main {
+  box-sizing: border-box;
+  padding: 15px;
+  margin: 0 auto;
+  min-width: 300px;
+  max-width: 900px;
+  font-size: 16px;
+  background-color: black;
+}
+
+header p {
+  font-size: 24px;
+}
+
+h2 {
+  margin-top: 50px;
+  line-height: 50%;
+}
+
+h2::before {
+  content: '### ';
+}
+
+h2, 
+h1 {
+  color: burlywood;
+}
+
+@media screen and (max-width: 900px) {
+  pre {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  pre {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 682px) {
+  pre {
+    overflow-x: scroll;
+  }
+}
